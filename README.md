@@ -2,7 +2,7 @@
 MANUAL DE INSTALACION DEL PROYECTO "BLOCKCHAIN" TIENDA PRUSIK:
 
 1) Bajar desde git
-   https://github.com/BlockChainCHA/prusik/
+   https://github.com/chlopez25/prusik2
 
 2) Ejecutamos los comandos
    npm install (En directorio de BACKEND)
